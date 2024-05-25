@@ -6,7 +6,9 @@
 <hr>
 
 ##  📖 **About me**
-I am a mathematician specialized in analysis and data science field, with +1 year of experience in the logistic and bank industries. I’m passionate about programming, machine learning, software development, data mining and data visualization.
+I am a mathematician specialized in analysis and data science field, with +1 year of experience in the logistic and bank industries.
+
+❤️ My passion for programming, machine learning topics, software development, and data visualization has led me to master tools  to effectively collaborate on team projects and solve complex challenges in data analysis.
 
 🎯 My goal is to train and develop professionally in the area of data science and software development.
 
