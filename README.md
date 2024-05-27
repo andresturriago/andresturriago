@@ -48,6 +48,6 @@ I am a mathematician specialized in analysis and data science field, with 2 year
 <!--   <a href="https://www.kaggle.com/andresfturriago" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>  -->
 </div><br>
 
-![](https://komarev.com/ghpvc/?username=andresturriago&style=flat&color=3776AB)   ![GitHub followers](https://img.shields.io/github/followers/andresturriago)
+![](https://komarev.com/ghpvc/?username=andresturriago&style=flat&color=3776AB)  ![GitHub followers](https://img.shields.io/github/followers/andresturriago) 
 
 
