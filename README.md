@@ -44,7 +44,7 @@ I am a mathematician specialized in analysis and data science field, with 2 year
 <div>
   <a href = "mailto:andresf.turriago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andres-turriago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://icedrive.net/s/Fi4ByRjb6z2vvtvywWtSZWfBATyT" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logoColor=white%22%20target=%22_blank"></a>
+  <a href="https://icedrive.net/s/t16xTw5TQ5DVRy5NfBBYtzAvF7ux" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logoColor=white%22%20target=%22_blank"></a>
 <!--   <a href="https://www.kaggle.com/andresfturriago" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>  -->
 </div><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aturriago&label=Profile%20views&color=0e75b6&style=flat" alt="aturriago" /> </p>
