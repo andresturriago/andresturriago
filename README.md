@@ -42,10 +42,9 @@ I am a mathematician specialized in analysis and data science field, with 2 year
 ## 💬 **Let's get in touch!**
 
 <div>
-  <a href = "mailto:andresf.turriago@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andres-turriago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://icedrive.net/s/t16xTw5TQ5DVRy5NfBBYtzAvF7ux" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logoColor=white%22%20target=%22_blank"></a>
-<!--   <a href="https://www.kaggle.com/andresfturriago" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>  -->
+  <a href = "mailto:andresf.turriago@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=red&labelColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andres-turriago/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin" target="_blank"></a>
+  <a href="https://icedrive.net/s/t16xTw5TQ5DVRy5NfBBYtzAvF7ux" target="_blank"><img src="https://img.shields.io/badge/resume-%23018EF5?style=for-the-badge&logo=readme&labelColor=white" target="_blank"></a>
 </div><br>
 
 ![](https://komarev.com/ghpvc/?username=andresturriago&style=flat&color=3776AB)  ![GitHub followers](https://img.shields.io/github/followers/andresturriago) 
