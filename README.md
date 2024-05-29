@@ -14,7 +14,13 @@ I am a mathematician specialized in analysis and data science field, with 2 year
 
 ## 🧰 **Skills** 
 
-💡 My soft skills include efficient problem solving, collaborative teamwork, effective communication, and continuous learning.
+💡 Soft skills
+- Critical thinking.
+- Effective communication.
+- Teamwork.
+- Problem-solving.
+- Curiosity.
+- Adaptability.
 
 | **Category** | **Technologies** |
 | --- | --- | 
