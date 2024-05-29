@@ -12,15 +12,19 @@ I am a mathematician specialized in analysis and data science field, with 2 year
 
 🎯 My goal is to train and develop professionally in the area of data science and software development.
 
+<hr>
+
 ## 🧰 **Skills** 
 
-💡 Soft skills
+### 💡 **Soft**
 - Critical thinking.
 - Effective communication.
 - Teamwork.
 - Problem-solving.
 - Curiosity.
 - Adaptability.
+
+### ⚙️ **Tech**
 
 | **Category** | **Technologies** |
 | --- | --- | 
