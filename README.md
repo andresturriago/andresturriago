@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> 👋 Hi, I'm Andres !</h1>
 </div>
-<img src="https://github.com/andresturriago/andresturriago/blob/main/img/Banner%20Github%20-%20Andres%20Turriago.png">
+<img src="img/Banner Github - Andres Turriago.png">
 
 <hr>
 
