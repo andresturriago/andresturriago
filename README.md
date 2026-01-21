@@ -6,7 +6,7 @@
 <hr>
 
 ##  📖 **About me**
-I am a mathematician specialized in analysis and data science field, with +2 years of experience in the logistic and bank industries.
+I am a mathematician specialized in analysis and data science field, with 3+ years of experience in the insurance, logistic and bank industries.
 
 ❤️ My passion for programming, machine learning topics, software development, and data visualization has led me to master tools  to effectively collaborate on team projects and solve complex challenges in data analysis.
 
@@ -53,7 +53,7 @@ I am a mathematician specialized in analysis and data science field, with +2 yea
 
 <div>
   <a href = "mailto:andresf.turriago@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=red&labelColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andres-turriago/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andresturriago/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin" target="_blank"></a>
   <a href="https://icedrive.net/s/vRT3PGaC98DCwzwYQGafzV5NyN19" target="_blank"><img src="https://img.shields.io/badge/resume-%23018EF5?style=for-the-badge&logo=readme&labelColor=white" target="_blank"></a>
 </div><br>
 
